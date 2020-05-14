@@ -1,0 +1,17 @@
+mergeSort , con N = 10 , tiempo = 0.000010 
+mergeSort , con N = 50 , tiempo = 0.000029 
+mergeSort , con N = 100 , tiempo = 0.000037 
+mergeSort , con N = 200 , tiempo = 0.000132 
+mergeSort , con N = 500 , tiempo = 0.000137 
+mergeSort , con N = 1000 , tiempo = 0.000213 
+mergeSort , con N = 2500 , tiempo = 0.001296 
+mergeSort , con N = 5000 , tiempo = 0.001563 
+mergeSort , con N = 10000 , tiempo = 0.004396 
+mergeSort , con N = 25000 , tiempo = 0.006807 
+mergeSort , con N = 50000 , tiempo = 0.014651 
+mergeSort , con N = 75000 , tiempo = 0.022773 
+mergeSort , con N = 100000 , tiempo = 0.030203 
+mergeSort , con N = 150000 , tiempo = 0.047597 
+mergeSort , con N = 300000 , tiempo = 0.100368 
+mergeSort , con N = 500000 , tiempo = 0.169683 
+mergeSort , con N = 1000000 , tiempo = 0.354061 

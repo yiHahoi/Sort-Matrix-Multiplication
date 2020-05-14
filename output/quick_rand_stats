@@ -1,0 +1,16 @@
+quickSort , con N = 10 , tiempo = 0.000009 
+quickSort , con N = 50 , tiempo = 0.000019 
+quickSort , con N = 100 , tiempo = 0.000049 
+quickSort , con N = 200 , tiempo = 0.000133 
+quickSort , con N = 500 , tiempo = 0.000349 
+quickSort , con N = 1000 , tiempo = 0.000791 
+quickSort , con N = 2500 , tiempo = 0.001425 
+quickSort , con N = 5000 , tiempo = 0.002263 
+quickSort , con N = 10000 , tiempo = 0.004627 
+quickSort , con N = 25000 , tiempo = 0.011471 
+quickSort , con N = 50000 , tiempo = 0.023027 
+quickSort , con N = 75000 , tiempo = 0.035255 
+quickSort , con N = 100000 , tiempo = 0.049679 
+quickSort , con N = 150000 , tiempo = 0.074950 
+quickSort , con N = 300000 , tiempo = 0.167964 
+quickSort , con N = 500000 , tiempo = 0.276241 

@@ -1,0 +1,16 @@
+C STD qsort , con N = 10 , tiempo = 0.000010 
+C STD qsort , con N = 50 , tiempo = 0.000029 
+C STD qsort , con N = 100 , tiempo = 0.000042 
+C STD qsort , con N = 200 , tiempo = 0.000098 
+C STD qsort , con N = 500 , tiempo = 0.000280 
+C STD qsort , con N = 1000 , tiempo = 0.000635 
+C STD qsort , con N = 2500 , tiempo = 0.001768 
+C STD qsort , con N = 5000 , tiempo = 0.002285 
+C STD qsort , con N = 10000 , tiempo = 0.003851 
+C STD qsort , con N = 25000 , tiempo = 0.011404 
+C STD qsort , con N = 50000 , tiempo = 0.020375 
+C STD qsort , con N = 75000 , tiempo = 0.031809 
+C STD qsort , con N = 100000 , tiempo = 0.043238 
+C STD qsort , con N = 150000 , tiempo = 0.067595 
+C STD qsort , con N = 300000 , tiempo = 0.143043 
+C STD qsort , con N = 500000 , tiempo = 0.247400 

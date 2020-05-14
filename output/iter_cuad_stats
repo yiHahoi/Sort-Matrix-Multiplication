@@ -1,0 +1,8 @@
+mat_mul_iter , con X de 32x32 e Y de 32x32 , tiempo = 0.001014 
+mat_mul_iter , con X de 64x64 e Y de 64x64 , tiempo = 0.007909 
+mat_mul_iter , con X de 128x128 e Y de 128x128 , tiempo = 0.064002 
+mat_mul_iter , con X de 256x256 e Y de 256x256 , tiempo = 0.502317 
+mat_mul_iter , con X de 512x512 e Y de 512x512 , tiempo = 4.276733 
+mat_mul_iter , con X de 1024x1024 e Y de 1024x1024 , tiempo = 36.053119 
+mat_mul_iter , con X de 2048x2048 e Y de 2048x2048 , tiempo = 302.341626 
+mat_mul_iter , con X de 4096x4096 e Y de 4096x4096 , tiempo = 2785.262937 

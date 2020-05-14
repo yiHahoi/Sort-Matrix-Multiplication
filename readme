@@ -1,0 +1,12 @@
+
+
+:p
+
+1) prepare.py
+2) ./data/mat/matrixGen.py
+3) ./data/sort/arrayGen.py
+4) ./run
+5) ./graph.py
+
+
+archivos de stats en output, arreglos y matrices solucion en output/sort y output/mat
