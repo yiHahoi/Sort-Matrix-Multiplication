@@ -2,7 +2,7 @@
 
 :p
 
-1) prepare.py
+1) ./prepare.py
 2) ./data/mat/matrixGen.py
 3) ./data/sort/arrayGen.py
 4) ./run
